@@ -11,6 +11,8 @@
  */
 
 :root {
+  --adlc-m2: "m2fake2";
+
   /* colors */
   --background-color: white;
   --light-color: #f8f8f8;
